@@ -33,7 +33,8 @@ if oooo == ("a"):
  
 if oooo ==("b"): 
 
-    print ("bankandet blir mer intensivt och sedan bryter sig en grupp av aliens sig in")
+    print ("bankandet blir mer intensivt och sedan bryter sig en grupp av sig in")
+    print(" Du förlorade")
 
 
 
@@ -51,7 +52,12 @@ if oooo ==("b"):
 elif oooo ==("b"):
    print ("du lämmnar din kompis i bunkern")
    print("Vad ska du göra nu?om du vill mot raketen inputa a annars b ")
-   if oooo == ("a")
+   if oooo == ("a"):
+      
+       print ("du ser en raket långt bort aternativ är  gå till raketen och alternativ b är att gå tillbacka tillbacka till bunkern och hämta din kompis")
+ 
+ if  oooo == ("a"):  
+    print   
 
 
 
